@@ -1,37 +1,50 @@
 <channels>
 <channel>
 <name>[B][COLOR orange]BEM VINDO AO LUMINART STUDIO [/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/2A1-BOASVINDAS</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+
 <channels>
 <channel>
-<name>[COLOR white][B]ACESSO DO JOÃO LUIS - CLIQUE AQUI E ENTRE [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-ENT-KRP/main/1D2-SELCONT-JOAO-KRP</externallink>
-<thumbnail>https://i.ibb.co/1n8hTSJ/Entrar.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<name>[COLOR white][B]INSTALE O NOVO ACESSO POR LOGIN[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/1-CATEGORIAS-AVKRP</externallink>
+<thumbnail>https://i.ibb.co/6YmkH7P/ICONEENTRAR.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+  
+
 <channels>
 <channel>
-<name>[B][COLOR white]CLIQUE AQUI PARA TER DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR white]DICAS DE NAVEGAÇÃO -> CLIQUE AQUI[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
-<thumbnail>https://i.ibb.co/8gLxcnv/informativolinks.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://i.ibb.co/Wf0Df6t/INFO-LINKS.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
 [COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+
+<channels>
+<channel>
+<name>[COLOR white][B]INFORMAÇÕES DO ACESSO -> CLIQUE AQUI[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>PRAZO DE VALIDADE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+
+
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
@@ -45,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]ACESSO RENOVADO [COLOR white]<-> VAL. ATÉ - 28-04-22[/B][/COLOR]</name>
+<name>[COLOR white][B]ACESSO REMOVIDO [COLOR white]<-> VALIDADE ENCERRADA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
 <thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -56,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CONTATE O SUPORTE E MUDE PARA O ACESSO VIP[/B][/COLOR]</name>
+<name>[COLOR white][B]CONTATE O SUPORTE - WHATS -(48) 99194-1409[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
 <thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -65,6 +78,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
- 
-
